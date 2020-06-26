@@ -16,4 +16,4 @@ def between():
     print(driver.title)
     driver.close()
 
-between()
+between(2)
